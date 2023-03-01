@@ -9,7 +9,7 @@ public class Main {
       }
 
       for(int j=i; j <= 2 * i - 1; ++j) {
-        System.out.print("* ");
+        System.out.print("* "); //Check this out
       }
 
       for(int j = 0; j < i - 1; ++j) {
